@@ -1,0 +1,175 @@
+// tradiksyon pou vwa a rive nan "genyen"
+
+import { getJSDocPrivateTag } from "typescript";
+
+// non pou tradui "lie" manti
+
+// verb pou tradui "lie" bay manti
+
+// expression poum tradui
+
+
+
+
+// let pronoun_next_word = dictionary.pronouns[nextWord];
+//       let pos_pronoun_next_word = dictionary.pos_pronouns[nextWord];
+//       let article_next_word = dictionary.articles[nextWord];
+//       let def_article_next_word = dictionary.definite_articles[nextWord];
+//       let indef_article_next_word = dictionary.indefinite_articles[nextWord];
+//       let verb_next_word = dictionary.verbs[nextWord];
+//       let preposition_next_word = dictionary.prepositions[nextWord];
+//       let conjunction_next_word = dictionary.conjunctions[nextWord];
+//       let noun_next_word = dictionary.nouns[nextWord];
+//       let adverb_next_word = dictionary.adverbs[nextWord];
+//       let expression_next_word = dictionary.expressions[nextWord];
+//       let number_next_word = dictionary.numbers[nextWord];
+//       let adjective_next_word = dictionary.adjectives[nextWord];
+//       let to_be_next_word = dictionary.to_be[nextWord];
+//       let interrogative_next_word = dictionary.interrogatives[nextWord];
+//       let modal_next_word = dictionary.modal_verbs[nextWord];
+//       let progressive_next_word = dictionary.modal_verbs[nextWord];
+
+//  1. Touye Metro ki t ap kouri deja 
+
+// Nan terminal VS Code la oswa cmd:
+
+// Windows
+
+// taskkill /F /IM node.exe
+
+
+
+//     else if(word === "can" && nextWord){
+//   const kreyolModal = dictionary.modal_verbs["can"]; // "ka"
+
+//   if(dictionary.pronouns[nextWord]){
+//     translated = `eske ${dictionary.pronouns[nextWord]} ${kreyolModal}`;
+//   } else {
+//     translated = `eske ${nextWord} ${kreyolModal}`;
+//   }
+//   i++;
+// }
+
+// else if(word === "could" && nextWord){
+//   const kreyolModal = dictionary.modal_verbs["could"]; // "te ka"
+
+//   if(dictionary.pronouns[nextWord]){
+//     translated = `eske ${dictionary.pronouns[nextWord]} ${kreyolModal}`;
+//   } else {
+//     translated = `eske ${nextWord} ${kreyolModal}`;
+//   }
+//   i++;
+// }
+
+
+
+
+if ((word === "can" || word === "could") && nextWord) {
+
+  const kreyolModal = dictionary.modal_verbs[word]; // ka / te ka
+  const isQuestion = (i === 0);                     // premye mo = eske
+  const subject = dictionary.pronouns[nextWord] || nextWord;
+
+  if (isQuestion) {
+    translated = `eske ${subject} ${kreyolModal}`;
+  } else {
+    translated = `${subject} ${kreyolModal}`;
+  }
+
+  i++;              // skip subject
+  // result.push(translated);
+  continue;         // ✅ OBLIGATWA! Anpeche lòt kondisyon tradui mo yo ankò
+}
+
+// ✅ TRADWI “do” KI VIN APRÈ CAN/COULD KÒM VERB
+if (word === "do") {
+
+  if (words[i - 1] === "can" || words[i - 1] === "could") {
+    translated = "fè";
+    // result.push(translated);
+    continue;
+  }
+
+  translated = dictionary.verbs["do"]; // fè
+  // result.push(translated);
+  continue;
+}
+
+// kreye vwa pou verb epi verifye ekspresyon vwa 
+
+
+o aksan aksan grav
+ò
+
+ android:roundIcon="@mipmap/ic_launcher_round"
+
+ devjs_english2creole_translator
+
+
+ <!-- <?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background color -->
+    <item android:drawable="@color/black"/>
+
+    <!-- Center logo -->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/screen" />
+    </item>
+
+</layer-list> -->
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#121928">
+
+    <ImageView 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:src="@drawable/screen" 
+        android:scaleType="centerCrop" 
+        android:layout_centerInParent="true" /> 
+
+</RelativeLayout>
+
+
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- <item name="android:editTextBackground">@drawable/rn_edit_text_material</item> -->
+        <item name="android:windowBackground">@drawable/splashscreen</item>
+    </style>
+
+</resources>
+
+
+
+
+google playstore File
+
+📌 Si ou vle AAB (Google Play Store)
+
+Si ou kouri:
+
+./gradlew bundleRelease
+
+
+Ou pral jwenn .aab la nan:
+
+android/app/build/outputs/bundle/release/
+
+
+Ladan l ou pral wè:
+
+app-release.aab
+  

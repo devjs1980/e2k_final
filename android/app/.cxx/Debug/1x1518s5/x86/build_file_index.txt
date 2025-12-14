@@ -1,0 +1,8 @@
+C:\Users\pouay\e2k\node_modules\@react-native-async-storage\async-storage\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\Users\pouay\e2k\node_modules\@react-native-vector-icons\evil-icons\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\Users\pouay\e2k\node_modules\@react-native-vector-icons\fontawesome6\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\Users\pouay\e2k\node_modules\react-native-gesture-handler\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\Users\pouay\e2k\node_modules\react-native-safe-area-context\android\src\main\jni\CMakeLists.txt
+C:\Users\pouay\e2k\node_modules\react-native-sound\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\Users\pouay\e2k\node_modules\react-native-vector-icons\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\Users\pouay\e2k\node_modules\react-native\ReactAndroid\cmake-utils\default-app-setup\CMakeLists.txt
