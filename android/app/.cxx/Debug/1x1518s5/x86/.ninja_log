@@ -1,10 +1,10 @@
 # ninja log v5
 19778	30646	7873521459080280	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/rngesturehandler_codegenJSI-generated.cpp.o	4bfd20532133de73
-2	34	0	C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/x86/CMakeFiles/cmake.verify_globs	dfd046d3e4b356ca
+2	35	7874703364335741	C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/x86/CMakeFiles/cmake.verify_globs	dfd046d3e4b356ca
 8000	17201	7873521324657276	VectorIconsEvilIcons_autolinked_build/CMakeFiles/react_codegen_VectorIconsEvilIcons.dir/VectorIconsEvilIcons-generated.cpp.o	2d798ac20dbdc18d
 55	7485	7873521227143139	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o	f2597474ccf5df81
 70	7998	7873521232370135	VectorIconsEvilIcons_autolinked_build/CMakeFiles/react_codegen_VectorIconsEvilIcons.dir/react/renderer/components/VectorIconsEvilIcons/EventEmitters.cpp.o	c5a6a4b083d795fe
-48	822	7873740800210317	build.ninja	c43a7f765b722e8c
+28	672	7874703368941783	build.ninja	c43a7f765b722e8c
 21807	36936	7873521521644448	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ComponentDescriptors.cpp.o	d1f163d11bba0403
 24	8863	7873521240115700	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o	8c98100f8b8f103d
 17	9359	7873521245852417	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o	103ceaf45bb6d787
@@ -56,4 +56,7 @@
 51084	56400	7873521716722707	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o	cab54f7160ee4c94
 47880	57240	7873521725127908	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ComponentDescriptors.cpp.o	ad9357d2806a7075
 9322	9585	7873728342329703	C:/Users/pouay/e2k/android/app/build/intermediates/cxx/Debug/1x1518s5/obj/x86/libappmodules.so	ec3df66ddf2b1a8d
-2	37	0	C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/x86/CMakeFiles/cmake.verify_globs	dfd046d3e4b356ca
+0	12	0	clean	6d401271016eaed6
+35	526	7874703368941783	build.ninja	c43a7f765b722e8c
+2	23	0	C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/x86/CMakeFiles/cmake.verify_globs	dfd046d3e4b356ca
+0	7	0	clean	6d401271016eaed6

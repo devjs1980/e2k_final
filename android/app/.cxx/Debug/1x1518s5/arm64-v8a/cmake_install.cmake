@@ -42,18 +42,6 @@ if(NOT DEFINED CMAKE_OBJDUMP)
   set(CMAKE_OBJDUMP "C:/Users/pouay/AppData/Local/Android/Sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-objdump.exe")
 endif()
 
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for each subdirectory.
-  include("C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/arm64-v8a/rnasyncstorage_autolinked_build/cmake_install.cmake")
-  include("C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/arm64-v8a/VectorIconsEvilIcons_autolinked_build/cmake_install.cmake")
-  include("C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/arm64-v8a/VectorIconsFontAwesome6_autolinked_build/cmake_install.cmake")
-  include("C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/arm64-v8a/rngesturehandler_codegen_autolinked_build/cmake_install.cmake")
-  include("C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/arm64-v8a/safeareacontext_autolinked_build/cmake_install.cmake")
-  include("C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/arm64-v8a/RNSoundSpec_autolinked_build/cmake_install.cmake")
-  include("C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/arm64-v8a/RNVectorIconsSpec_autolinked_build/cmake_install.cmake")
-
-endif()
-
 if(CMAKE_INSTALL_COMPONENT)
   set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")
 else()

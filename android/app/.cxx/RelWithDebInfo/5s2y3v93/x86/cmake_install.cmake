@@ -44,8 +44,10 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
+  include("C:/Users/pouay/e2k/android/app/.cxx/RelWithDebInfo/5s2y3v93/x86/rnasyncstorage_autolinked_build/cmake_install.cmake")
   include("C:/Users/pouay/e2k/android/app/.cxx/RelWithDebInfo/5s2y3v93/x86/VectorIconsEvilIcons_autolinked_build/cmake_install.cmake")
   include("C:/Users/pouay/e2k/android/app/.cxx/RelWithDebInfo/5s2y3v93/x86/VectorIconsFontAwesome6_autolinked_build/cmake_install.cmake")
+  include("C:/Users/pouay/e2k/android/app/.cxx/RelWithDebInfo/5s2y3v93/x86/rngesturehandler_codegen_autolinked_build/cmake_install.cmake")
   include("C:/Users/pouay/e2k/android/app/.cxx/RelWithDebInfo/5s2y3v93/x86/safeareacontext_autolinked_build/cmake_install.cmake")
   include("C:/Users/pouay/e2k/android/app/.cxx/RelWithDebInfo/5s2y3v93/x86/RNSoundSpec_autolinked_build/cmake_install.cmake")
   include("C:/Users/pouay/e2k/android/app/.cxx/RelWithDebInfo/5s2y3v93/x86/RNVectorIconsSpec_autolinked_build/cmake_install.cmake")

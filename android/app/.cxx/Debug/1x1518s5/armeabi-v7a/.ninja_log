@@ -1,7 +1,7 @@
 # ninja log v5
 35004	47526	7873520932262033	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/9d18ae454d320fb1f40fc3e64bb67b89/renderer/components/safeareacontext/safeareacontextJSI-generated.cpp.o	f0a23a8d9912745c
-3	46	0	C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/armeabi-v7a/CMakeFiles/cmake.verify_globs	db598f7db6ae1ad5
-208	2359	7873740783789728	build.ninja	816a9d9c7c4be325
+2	36	7874703352150965	C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/armeabi-v7a/CMakeFiles/cmake.verify_globs	db598f7db6ae1ad5
+41	770	7874703357076213	build.ninja	816a9d9c7c4be325
 25483	40369	7873520860373219	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ComponentDescriptors.cpp.o	ceb568b2c12f63e2
 36	9802	7873520555138048	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o	1e9efb528fa9c8d0
 49361	59884	7873521056001151	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o	c00599bd6103259e
@@ -56,4 +56,7 @@
 55131	64455	7873521101744948	RNSoundSpec_autolinked_build/CMakeFiles/react_codegen_RNSoundSpec.dir/react/renderer/components/RNSoundSpec/ShadowNodes.cpp.o	c7a034ec3a987a7
 57748	65913	7873521116416555	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ComponentDescriptors.cpp.o	83dc8d9da35e4fc8
 10913	11137	7873728236835024	C:/Users/pouay/e2k/android/app/build/intermediates/cxx/Debug/1x1518s5/obj/armeabi-v7a/libappmodules.so	ed0d1425dbf7c0c6
-3	47	0	C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/armeabi-v7a/CMakeFiles/cmake.verify_globs	db598f7db6ae1ad5
+0	12	0	clean	6d401271016eaed6
+36	558	7874703357076213	build.ninja	816a9d9c7c4be325
+2	26	0	C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/armeabi-v7a/CMakeFiles/cmake.verify_globs	db598f7db6ae1ad5
+0	8	0	clean	6d401271016eaed6

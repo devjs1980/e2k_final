@@ -1,10 +1,10 @@
 # ninja log v5
 43725	53852	7873522302667088	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp.o	c35680efeefb7ad7
 10126	20263	7873521967109296	VectorIconsEvilIcons_autolinked_build/CMakeFiles/react_codegen_VectorIconsEvilIcons.dir/react/renderer/components/VectorIconsEvilIcons/VectorIconsEvilIconsJSI-generated.cpp.o	600681618d416606
-2	29	0	C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/x86_64/CMakeFiles/cmake.verify_globs	142e0f04bab5ecef
+2	30	7874703370241806	C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/x86_64/CMakeFiles/cmake.verify_globs	142e0f04bab5ecef
 67	6691	7873521831367038	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o	feb0381feb46a4f
 75	9561	7873521859640843	VectorIconsEvilIcons_autolinked_build/CMakeFiles/react_codegen_VectorIconsEvilIcons.dir/VectorIconsEvilIcons-generated.cpp.o	8885039281a8aa34
-34	908	7873740816460999	build.ninja	89d4eec20bf0d5fb
+31	683	7874703374818303	build.ninja	89d4eec20bf0d5fb
 20264	33608	7873522100233039	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ComponentDescriptors.cpp.o	8c170c0ccebeb367
 43	8040	7873521844909280	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o	992b3ac5eec58925
 28	9760	7873521861789636	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o	c7d945394fd50703
@@ -56,4 +56,7 @@
 48770	56903	7873522333519417	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o	c974619d52e12221
 50732	58521	7873522349780104	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ComponentDescriptors.cpp.o	d25ba5fb6f731859
 9148	9381	7873728446659932	C:/Users/pouay/e2k/android/app/build/intermediates/cxx/Debug/1x1518s5/obj/x86_64/libappmodules.so	8c29b15a3da890e7
-2	32	0	C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/x86_64/CMakeFiles/cmake.verify_globs	142e0f04bab5ecef
+0	12	0	clean	6d401271016eaed6
+30	519	7874703374818303	build.ninja	89d4eec20bf0d5fb
+2	26	0	C:/Users/pouay/e2k/android/app/.cxx/Debug/1x1518s5/x86_64/CMakeFiles/cmake.verify_globs	142e0f04bab5ecef
+1	8	0	clean	6d401271016eaed6
